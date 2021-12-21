@@ -1,6 +1,6 @@
 package com.example.reactive.client;
 
-import com.example.reactive.model.Event;
+import com.example.model.Event;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.builder.SpringApplicationBuilder;

@@ -1,6 +1,6 @@
 package com.example.reactive.service;
 
-import com.example.reactive.model.Event;
+import com.example.model.Event;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;
 import org.springframework.beans.factory.annotation.Autowired;

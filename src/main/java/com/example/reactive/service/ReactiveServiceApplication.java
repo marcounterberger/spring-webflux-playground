@@ -1,6 +1,6 @@
 package com.example.reactive.service;
 
-import com.example.reactive.model.Event;
+import com.example.model.Event;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.http.MediaType;
